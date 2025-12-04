@@ -1,0 +1,15 @@
+{
+  "connection": {
+    "server": "iZ7y4gbss1x67fZ",
+    "sldServer": "iZ7y4gbss1x67fZ:40000",
+    "companyDB": "TestCN",
+    "userName": "manager",
+    "password": "1234",
+    "dbServerType": 17,
+    "language": "English",
+    "useTrusted": false
+  },
+  "test": {
+    "itemCode": "A001"
+  }
+}
